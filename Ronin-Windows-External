@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-4.0.5",
-    "Roblox": "version-76173e47a79145c7"
+    "Software": "Version-4.0.6",
+    "Roblox": "version-8884371d30284041"
   },
-  "Changelog": "Visuals\n[+] Added Tool ESP\n[+] Added Radar ESP\n\nSettings:\n[+] Added Crosshairs\n\nUser Interface:\n[+] Reorganized Features"
+  "Changelog": "Core"\n[+] Updated To Latest Roblox Version"
 }
