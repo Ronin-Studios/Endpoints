@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-4.0.4",
+    "Software": "Version-4.0.5",
     "Roblox": "version-76173e47a79145c7"
   },
-  "Changelog": "Aiming:\n[+] Added Hit Sounds\n[+] Added Priority Target Override\n[+] Added Friendly Target Filtering\n\nVisuals:\n[+] Added View Vector\n[+] Added Player Trails\n[+] Added Breathing Glow\n\nPlayer List:\n[+] Fixed Priority Highlighting Consistency\n[+] Fixed Friendly Highlighting Consistency"
+  "Changelog": "Visuals\n[+] Added Tool ESP\n[+] Added Radar ESP\n\nSettings:\n[+] Added Crosshairs\n\nUser Interface:\n[+] Reorganized Features"
 }
