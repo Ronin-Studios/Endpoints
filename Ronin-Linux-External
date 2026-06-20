@@ -1,0 +1,8 @@
+{
+  "Platform": "Linux-External",
+  "Versions": {
+    "Software": "Version-1.0.0",
+    "Roblox": "2.724.735"
+  },
+  "Changelog": "Core: [+] Updated To Latest Roblox Version"
+}
