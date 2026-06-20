@@ -1,7 +1,7 @@
 {
   "Platform": "Cross-Platform-Lua-Script",
   "Versions": {
-    "Script": "Version-1.1.0",
+    "Script": "Version-1.2.0"
   },
-  "Changelog": "Farming:\n[+] Added Collect Aura\n[+] Improved Auto Collect\n[+] Improved Full Auto Farm\n\nShopping:\n[+] Added Smart Ripeness Detection\n\nSniping:\n[+] Added Shop Auto Buying\n\nPets:\n[+] Added Live Pet Detection\n\nTeleporting:\n[+] Added Tween Teleporting\n\nMovement:\n[+] Added Flight\n[+] Added No Clip"
+  "Changelog": "Core:\n[+] Introduced New Interface\n[+] Introduced Custom Authentication\n\n[+] Added Full Mobile Support\n\nFarming:\n[+] Improved Collect Aura\n[+] Improved Auto Sell\n\nShopping:\n[+] Improved Auto Buy\n\nMovement:\n[+] Reworked Walk Speed\n[+] Reworked Jump Power\n\n[+] Fixed Flight\n[+] Fixed Infinite Jump\n\nTeleporting:\n[+] Reworked Options\n\nSniping:\n[+] Added Between-Session Target Saving"
 }
