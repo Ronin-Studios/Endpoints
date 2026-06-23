@@ -1,8 +1,8 @@
 {
   "Platform": "Linux-External",
   "Versions": {
-    "Software": "Version-1.0.1",
-    "Roblox": "2.724.735"
+    "Software": "Version-1.1.1",
+    "Sober": "1.7.1"
   },
-  "Changelog": "Aiming:\n[+] Added Visible Only\n\n[+] Fixed Hold/Toggle\n\Visuals: [+] Added Samurai Hat\n[+] Added Wallcheck\n[+] Added UI Themes\n[+] Added Health Bar Styles\n\nMiscellaneous:\n[+] Added Explorer"
+  "Changelog": "Core:\n[+] Updated To Latest Sober Version\n\n[+] Added Crash Handling\n[+] Added Compositor Detection\n[+] Added Native Wayland Overlay\n[+] Added Wayland Event Dispatch\n[+] Added Wayland Pointer Support\n[+] Added Full Scroll Wheel Support\n[+] Added Wayland Software Rendering\n[+] Added KeepAbove/NoBorder KWin Script\n[+] Added Native Wayland Keyboard Support\n\n[+] Fixed X11 Typing Bugs\n[+] Fixed Authentication Bugs"
 }
