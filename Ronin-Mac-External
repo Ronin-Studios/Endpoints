@@ -1,8 +1,8 @@
 {
   "Platform": "Mac-External",
   "Versions": {
-    "Software": "Version-1.0.2",
-    "Roblox": "version-d9748b94acff4b5d"
+    "Software": "Version-1.0.3",
+    "Roblox": "version-e6241eed717840df"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\nVisuals:\n[+] Added Chams\n\nSettings:\n[+] Improved Streamproof"
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
