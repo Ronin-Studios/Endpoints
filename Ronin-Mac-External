@@ -1,8 +1,8 @@
 {
   "Platform": "Mac-External",
   "Versions": {
-    "Software": "Version-1.0.4",
-    "Roblox": "version-6dbf65115d56458c"
+    "Software": "Version-1.0.5",
+    "Roblox": "version-e6241eed717840df"
   },
   "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
