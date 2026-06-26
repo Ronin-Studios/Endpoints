@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-4.0.7",
+    "Software": "Version-4.0.8",
     "Roblox": "version-1a951716f19e4638"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
+  "Changelog": "Core:\n[+] [+] Fixed Initialization Error\n\nSettings:\n[+] Fixed Raycasting"
 }
