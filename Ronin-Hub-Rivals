@@ -1,7 +1,7 @@
 {
   "Platform": "Cross-Platform-Lua-Script",
   "Versions": {
-    "Script": "Version-1.0.1"
+    "Script": "Version-1.0.2"
   },
-  "Changelog": "Auto Farm:\n[+] Added Auto Farm\n[+] Added Height Offset\n[+] Added Follow Smoothness\n\nOrbit:\n[+] Added Orbit\n[+] Added Speed\n[+] Added Distance\n[+] Added Height Offset\n\nUser Interface:\n[+] Fixed Inconsistent Slider Values"
+  "Changelog": "Core:\n[+] Added Built-In 'Unlock All' "
 }
