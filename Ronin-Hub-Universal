@@ -1,0 +1,7 @@
+{
+  "Platform": "Cross-Platform-Lua-Script",
+  "Versions": {
+    "Script": "Version-1.0.0"
+  },
+  "Changelog": "Core:\n[+] Release"
+}
