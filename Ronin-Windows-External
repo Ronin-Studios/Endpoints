@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-4.1.3",
-    "Roblox": "version-eb158392d1c84e6a"
+    "Software": "Version-4.1.4",
+    "Roblox": "version-ddf02245bdbb428c"
   },
   "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
