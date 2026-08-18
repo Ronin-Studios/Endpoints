@@ -1,8 +1,8 @@
 {
   "Platform": "Windows-External",
   "Versions": {
-    "Software": "Version-4.1.8",
-    "Roblox": "version-ddf602d9cfe44005"
+    "Software": "Version-4.1.9",
+    "Roblox": "version-ce0bcd0fbd484804"
   },
-  "Changelog": "Core:\n[+] Updated To Latest Roblox Version\n\nWe'd like to briefly apologize for the recent downtime. Nekros has suffered the loss of a family member and has been taking some time off social media, thank you.\nAll buyers have been compensated for the downtime."
+  "Changelog": "Core:\n[+] Updated To Latest Roblox Version"
 }
